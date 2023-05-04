@@ -1,0 +1,7 @@
+name: wPocoes
+version: '1.0-SNAPSHOT'
+main: br.com.redewally.wally_pot.Main
+author: [Itawxz]
+commands:
+  agrupar:
+    aliases: 'pot'

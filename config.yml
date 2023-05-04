@@ -1,0 +1,8 @@
+pot:
+  perm:
+    permissão: 'wally.pot'
+    permissão_msg: 'você não tem permissão'
+  mensagens:
+    sem_pot: 'Você não tem poções para agrupar'
+    agrupadas: 'Todas as suas poções foram agrupadas'
+  quantidade: 11
